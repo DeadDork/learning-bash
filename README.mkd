@@ -1,0 +1,4 @@
+Learning BASH
+=============
+
+This is a simple repo for me to play around with BASH.
